@@ -1,0 +1,3 @@
+[submodule "build-your-own-react-native-app"]
+	path = build-your-own-react-native-app
+	url = git@github.com:shujer/build-your-own-react-native-app.git
